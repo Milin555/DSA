@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Milin555/DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/Milin555/DSA/tree/master/0137-single-number-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Milin555/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/Milin555/DSA/tree/master/1518-water-bottles) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Milin555/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Milin555/DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/Milin555/DSA/tree/master/0137-single-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
@@ -39,4 +42,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Milin555/DSA/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Milin555/DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/Milin555/DSA/tree/master/0137-single-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Milin555/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
@@ -66,5 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Milin555/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Milin555/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Milin555/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->

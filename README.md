@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Milin555/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Milin555/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Milin555/DSA/tree/master/0013-roman-to-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Milin555/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Milin555/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Milin555/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Milin555/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Milin555/DSA/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Milin555/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Milin555/DSA/tree/master/0013-roman-to-integer) |
 | [1518-water-bottles](https://github.com/Milin555/DSA/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Milin555/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |

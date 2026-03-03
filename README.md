@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Milin555/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Milin555/DSA/tree/master/0013-roman-to-integer) |
+| [0390-elimination-game](https://github.com/Milin555/DSA/tree/master/0390-elimination-game) |
 | [1518-water-bottles](https://github.com/Milin555/DSA/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Milin555/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Milin555/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/Milin555/DSA/tree/master/0390-elimination-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Milin555/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |

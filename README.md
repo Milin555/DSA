@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Milin555/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Milin555/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

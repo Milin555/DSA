@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Milin555/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Milin555/DSA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/Milin555/DSA/tree/master/0137-single-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Milin555/DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Milin555/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Milin555/DSA/tree/master/0077-combinations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Milin555/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

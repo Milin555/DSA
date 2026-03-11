@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Milin555/DSA/tree/master/0137-single-number-ii) |
+| [1009-complement-of-base-10-integer](https://github.com/Milin555/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Milin555/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Milin555/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
